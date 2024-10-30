@@ -1,5 +1,5 @@
 # Assembly Explainer
 
-`npm install`
+x86 assembly explainer/visualizer implemented as a web app in ClojureScript. Small project with [Jaycoobs](https://github.com/Jaycoobs).
 
-`npm run dev`
+![](media/showcase.gif)

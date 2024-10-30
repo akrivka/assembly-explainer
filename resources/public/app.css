@@ -660,9 +660,6 @@ video {
 .right-0 {
 	right: 0px;
 }
-.left-1 {
-	left: 0.25rem;
-}
 .isolate {
 	isolation: isolate;
 }
@@ -705,6 +702,9 @@ video {
 }
 .table {
 	display: table;
+}
+.grid {
+	display: grid;
 }
 .contents {
 	display: contents;
